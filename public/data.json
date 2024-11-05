@@ -1,0 +1,281 @@
+[
+    {
+      "product_id": "P1001",
+      "product_title": "MacBook Pro 16-inch",
+      "product_image": "https://cdsassets.apple.com/live/SZLF0YNV/images/sp/111932_sp809mbp16touch-space-2019.jpeg",
+      "category": "Macbook",
+      "price": 2499.99,
+      "description": "Powerful laptop with M1 chip, 16GB RAM, and 512GB SSD storage.",
+      "Specification": ["16-inch display", "M1 chip", "16GB RAM", "512GB SSD"],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": "P1002",
+      "product_title": "iPhone 14 Pro Max",
+      "product_image": "https://www.apple.com/newsroom/images/product/iphone/standard/Apple-iPhone-14-Pro-iPhone-14-Pro-Max-silver-220907_inline.jpg.large.jpg",
+      "category": "Iphone",
+      "price": 1199.99,
+      "description": "Latest iPhone model with advanced features and 5G capability.",
+      "Specification": ["6.7-inch display", "A16 Bionic chip", "5G", "Pro camera system"],
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "product_id": "P1003",
+      "product_title": "Samsung Galaxy S22",
+      "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/Galaxy-S22-5G-Violet-6458.jpg",
+      "category": "Phone",
+      "price": 999.99,
+      "description": "High-performance Android smartphone with stunning display and camera.",
+      "Specification": ["6.2-inch display", "Snapdragon 888", "Triple camera", "5G support"],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": "P1004",
+      "product_title": "Apple Watch Series 8",
+      "product_image": "https://cdsassets.apple.com/live/SZLF0YNV/images/sp/111848_apple-watch-series8.png",
+      "category": "SmartWatch",
+      "price": 399.99,
+      "description": "Advanced smartwatch with fitness tracking and health features.",
+      "Specification": ["Always-on display", "ECG", "Blood oxygen monitoring", "GPS"],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": "P1005",
+      "product_title": "Dell XPS 13",
+      "product_image": "https://computermania-bd.b-cdn.net/wp-content/uploads/Dell-XPS-13-Plus-BD-Price-1.jpg",
+      "category": "Laptops",
+      "price": 1099.99,
+      "description": "Compact and powerful laptop with 13-inch display and Intel i7 processor.",
+      "Specification": ["13-inch display", "Intel i7", "16GB RAM", "512GB SSD"],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": "P1006",
+      "product_title": "AirPods Pro",
+      "product_image": "https://gadgetoo.com.bd/wp-content/uploads/2022/06/9876.jpg",
+      "category": "Accessories",
+      "price": 249.99,
+      "description": "Wireless earbuds with active noise cancellation and spatial audio.",
+      "Specification": ["Noise cancellation", "Spatial audio", "Wireless charging"],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": "P1007",
+      "product_title": "iPhone 13 Mini",
+      "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/3410-42224.jpg",
+      "category": "Iphone",
+      "price": 699.99,
+      "description": "Compact iPhone with powerful features and dual-camera system.",
+      "Specification": ["5.4-inch display", "A15 Bionic chip", "Dual camera", "5G"],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": "P1008",
+      "product_title": "MacBook Air M2",
+      "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi7xsTCI2iH227YfV2OopTu5qP7ImLJeK0SQ&s",
+      "category": "Macbook",
+      "price": 1199.99,
+      "description": "Lightweight and powerful laptop with M2 chip and long battery life.",
+      "Specification": ["13-inch display", "M2 chip", "8GB RAM", "256GB SSD"],
+      "availability": true,
+      "rating": 4
+    },
+    {
+      "product_id": "P1009",
+      "product_title": "Fitbit Charge 5",
+      "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/Fitbit-Charge-5-Black-3688.jpg",
+      "category": "SmartWatch",
+      "price": 179.99,
+      "description": "Fitness tracker with health metrics and built-in GPS.",
+      "Specification": ["Health tracking", "GPS", "Sleep tracking", "Water-resistant"],
+      "availability": true,
+      "rating": 4.4
+    },
+    {
+      "product_id": "P1010",
+      "product_title": "Lenovo ThinkPad X1 Carbon",
+      "product_image": "https://aroz.com.bd/wp-content/uploads/2022/10/lenovo-laptops-x1-carbon-6th-gen-hero.webp",
+      "category": "Laptops",
+      "price": 1499.99,
+      "description": "Premium business laptop with Intel i7 processor and 14-inch display.",
+      "Specification": ["14-inch display", "Intel i7", "16GB RAM", "1TB SSD"],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": "P1011",
+      "product_title": "Anker PowerCore 10000",
+      "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7zaGa2ABA3dLH89KNCaDMRsvzGgATYh8m-A&s",
+      "category": "Accessories",
+      "price": 25.99,
+      "description": "Portable charger with 10000mAh capacity and fast charging.",
+      "Specification": ["10000mAh capacity", "Fast charging", "Compact size"],
+      "availability": true,
+      "rating": 3.5
+    },
+    {
+      "product_id": "P1012",
+      "product_title": "Samsung Galaxy Watch 4",
+      "product_image": "https://images.samsung.com/bd/galaxy-watch4/feature/galaxy-watch4-classic-black-compatibility-mo.png",
+      "category": "SmartWatch",
+      "price": 249.99,
+      "description": "Smartwatch with fitness tracking, health monitoring, and GPS.",
+      "Specification": ["GPS", "Heart rate monitor", "Sleep tracking", "Water-resistant"],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": "P1013",
+      "product_title": "Google Pixel 6",
+      "product_image": "https://www.custommacbd.com/cdn/shop/files/3784-23234.jpg?v=1687459730",
+      "category": "Phone",
+      "price": 599.99,
+      "description": "Powerful Android phone with Google Tensor chip and great camera.",
+      "Specification": ["6.4-inch display", "Google Tensor chip", "Dual camera", "5G"],
+      "availability": true,
+      "rating": 3
+    },
+    {
+      "product_id": "P1014",
+      "product_title": "MacBook Air 2020",
+      "product_image": "https://brotherselectronicsbd.com/image/cache/catalog/demo/Laptop/Air%20M1/macbookairm1-800x800.png",
+      "category": "Macbook",
+      "price": 999.99,
+      "description": "Lightweight laptop with M1 chip and Retina display.",
+      "Specification": ["13-inch display", "M1 chip", "8GB RAM", "256GB SSD"],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": "P1015",
+      "product_title": "iPhone 12",
+      "product_image": "https://www.gizmochina.com/wp-content/uploads/2020/10/cats-500x500.jpg",
+      "category": "Iphone",
+      "price": 799.99,
+      "description": "Apple iPhone with A14 Bionic chip and dual camera.",
+      "Specification": ["6.1-inch display", "A14 Bionic chip", "Dual camera", "5G"],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": "P1016",
+      "product_title": "Sony WH-1000XM4",
+      "product_image": "https://www.sony-asia.com/image/406fdd3cc9e49e28002ad8baef9185c8?fmt=pjpeg&wid=1014&hei=396&bgcolor=F1F5F9&bgc=F1F5F9",
+      "category": "Accessories",
+      "price": 349.99,
+      "description": "Noise-canceling over-ear headphones with exceptional sound quality.",
+      "Specification": ["Noise cancellation", "Bluetooth", "30 hours battery life"],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": "P1017",
+      "product_title": "HP Spectre x360",
+      "product_image": "https://computermania-bd.b-cdn.net/wp-content/uploads/HP-Spectre-x360-15-Price-in-BD.jpg",
+      "category": "Laptops",
+      "price": 1349.99,
+      "description": "Convertible laptop with 13.3-inch touchscreen and Intel i7.",
+      "Specification": ["13.3-inch display", "Convertible", "Intel i7", "512GB SSD"],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": "P1018",
+      "product_title": "Huawei Watch GT 3",
+      "product_image": "https://consumer.huawei.com/dam/content/dam/huawei-cbg-site/common/mkt/pdp/wearables/watch-gt3/img/2/huawei-watch-gt-3-strap-1.png",
+      "category": "SmartWatch",
+      "price": 229.99,
+      "description": "Elegant smartwatch with long battery life and fitness tracking.",
+      "Specification": ["Battery life up to 14 days", "Health monitoring", "GPS"],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": "P1019",
+      "product_title": "OnePlus Nord",
+      "product_image": "https://oasis.opstatics.com/content/dam/oasis/page/2022/operation/apr/in/Nord-ce2-lite-Blue.png",
+      "category": "Phone",
+      "price": 399.99,
+      "description": "Affordable smartphone with great performance and fast charging.",
+      "Specification": ["6.44-inch display", "Snapdragon 765G", "Quad camera", "5G"],
+      "availability": true,
+      "rating": 4.4
+    },
+    {
+      "product_id": "P1020",
+      "product_title": "Apple Magic Keyboard",
+      "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTckY4NOYOqTHEXGgQsOasQTatI_rxgkLtGbg&s",
+      "category": "Accessories",
+      "price": 99.99,
+      "description": "Wireless keyboard with rechargeable battery and sleek design.",
+      "Specification": ["Wireless", "Rechargeable", "Compact"],
+      "availability": true,
+      "rating": 4.5
+    },
+    
+      {
+        "product_id": "P1021",
+        "product_title": "MacBook Pro 16",
+        "product_image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp16-spacegray-select-202110?wid=904&hei=840&fmt=jpeg&qlt=80&.v=1632799275000",
+        "category": "Laptops",
+        "price": 2399.99,
+        "description": "High-performance laptop with Apple M1 Pro chip and stunning 16-inch Retina display.",
+        "Specification": ["16-inch Retina display", "Apple M1 Pro chip", "16GB RAM", "512GB SSD"],
+        "availability": true,
+        "rating": 4.8
+      },
+      {
+        "product_id": "P1022",
+        "product_title": "HP Spectre x360",
+        "product_image": "https://computermania-bd.b-cdn.net/wp-content/uploads/HP-Spectre-x360-15-Price-in-BD.jpg",
+        "category": "Laptops",
+        "price": 1399.99,
+        "description": "Convertible laptop with 360-degree hinge, Intel i7 processor, and touch-enabled display.",
+        "Specification": ["13.5-inch touch display", "Intel i7", "16GB RAM", "512GB SSD", "Convertible"],
+        "availability": true,
+        "rating": 4.6
+      },
+      {
+        "product_id": "P1023",
+        "product_title": "Lenovo ThinkPad X1 Carbon",
+        "product_image": "https://ayota.com.bd/cdn/shop/files/LenovoX1CarbonUsed_1024x.png?v=1714040175s",
+        "category": "Laptops",
+        "price": 1799.99,
+        "description": "Business laptop with lightweight design, Intel i7 processor, and long battery life.",
+        "Specification": ["14-inch display", "Intel i7", "16GB RAM", "1TB SSD", "Lightweight"],
+        "availability": true,
+        "rating": 4.5
+      },
+      {
+        "product_id": "P1024",
+        "product_title": "ASUS ZenBook 14",
+        "product_image": "https://www.khancomputers.com.bd/img/2020/09/ASUS-ZenBook-14-UX434FQ-Core-i7-10th-Gen-14-Inch-FHD-Laptop-with-Windows-10_1.jpg.webp",
+        "category": "Laptops",
+        "price": 999.99,
+        "description": "Slim and elegant ultrabook with AMD Ryzen 7 processor and FHD display.",
+        "Specification": ["14-inch FHD display", "AMD Ryzen 7", "8GB RAM", "512GB SSD", "Ultra-slim"],
+        "availability": true,
+        "rating": 4.4
+      },
+      {
+        "product_id": "P1025",
+        "product_title": "Acer Predator Helios 300",
+        "product_image": "https://images-cdn.ubuy.co.id/634005433f4f712dd4290459-acer-predator-helios-300-gaming-laptop.jpg",
+        "category": "Laptops",
+        "price": 1299.99,
+        "description": "Gaming laptop with NVIDIA GeForce GTX 1660 Ti graphics and Intel i7 processor.",
+        "Specification": ["15.6-inch FHD display", "Intel i7", "16GB RAM", "256GB SSD + 1TB HDD", "NVIDIA GTX 1660 Ti"],
+        "availability": true,
+        "rating": 4.7
+      }
+    
+    
+  ]
+  
