@@ -9,6 +9,7 @@ import ProductDetail from "./components/ProductDetail"; // Adjust if located els
 import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import Collection from "./pages/Collection";
+import NotFound from "./pages/NotFound"
 
 function App() {
   return (
@@ -25,6 +26,7 @@ function App() {
           <Route path="/products" element={<Products />} />
           <Route path="/collection" element={<Collection />} />
           <Route path="/product/:productId" element={<ProductDetail />} />
+          <Route path="*" element={<NotFound/>} />
         </Routes>
       </div>
       <Footer/>
