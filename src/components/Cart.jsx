@@ -73,8 +73,7 @@ const Cart = () => {
             <img src="/src/assets/Group.png" alt="Success" className="w-24 h-24 mx-auto mb-4" />
             <h2 className="text-2xl font-semibold mb-4">Payment Successful</h2>
             <hr className="my-4" />
-            <div className='text-center'>Total Cost: ${totalCost.toFixed(2)}</div>
-
+ 
             <p className="text-gray-700">Thanks for purchasing!</p>
             <button onClick={closeModal} className="mt-6 bg-blue-500 text-white px-4 py-2 rounded-full">
               Close
