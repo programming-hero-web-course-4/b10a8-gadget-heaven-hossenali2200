@@ -70,7 +70,7 @@ const Cart = () => {
       {isModalOpen && (
         <div className="fixed inset-0 bg-black bg-opacity-50 flex justify-center items-center">
           <div className="bg-white p-6 rounded-lg w-96 text-center">
-            <img src="/src/assets/Group.png" alt="Success" className="w-24 h-24 mx-auto mb-4" />
+            <img src="https://i.postimg.cc/3J83qpYQ/Group.png" alt="Success" className="w-24 h-24 mx-auto mb-4" />
             <h2 className="text-2xl font-semibold mb-4">Payment Successful</h2>
             <hr className="my-4" />
  

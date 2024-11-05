@@ -1,5 +1,7 @@
 import React from 'react';
 
+const image = "https://i.postimg.cc/5y3b095r/banner.jpg"
+
 const Hero = () => {
   return (
     <div>
@@ -28,7 +30,7 @@ const Hero = () => {
 
         <div className="flex justify-center absolute lg:top-[300px] top-[250px] lg:h-[500px] lg:w-[1300px] mt-24">
           <img
-            src="/src/assets/banner.jpg"
+            src={image}
             className="w-10/12 mx-auto border-2 border-white p-6 rounded-3xl"
             alt="Banner"
           />
