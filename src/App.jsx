@@ -18,7 +18,7 @@ function App() {
        
 
        <Header/>
-      <div className="mb-[200px]">
+      <div className="mb-[300px]">
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/statistics" element={<Statistics />} />
